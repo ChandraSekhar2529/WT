@@ -8,11 +8,16 @@
 }
 .h4{
   background-color: #F0FFF0;
-  padding:50px;
+  padding:10px 150px;
+  
   border:5px solid white;
   text-align:center;
   
 }
 #img{
      border-radius: 30 px;
+}
+a:link {
+  text-decoration: none;
+   
 }
