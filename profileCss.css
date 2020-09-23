@@ -9,13 +9,12 @@
 .h4{
   background-color: #F0FFF0;
   padding:15px 200px;
-  
   border:5px solid white;
   text-align:center;
   
 }
 .img{
-     border-radius: 50 px;
+     border-radius: 80 px;
 }
 a:link {
   text-decoration: none;
