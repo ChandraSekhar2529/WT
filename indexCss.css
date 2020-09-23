@@ -9,9 +9,11 @@
 .as{
       background-color:  #90EE90; 
     text-align: center;
-    padding: 5px;
-      margin-left:150px;
+     padding: 5px;
+     margin-left:150px;
      margin-top : 20px
+     border-style: solid;
+      border-width: 5px;
 }
 .h1se{
       background-color: yellow ;
