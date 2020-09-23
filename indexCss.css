@@ -8,16 +8,16 @@
 }
 .as{
       background-color:  #90EE90; 
-    text-align: center;
-     padding: 5px;
-   
-    
-     border-style: solid;
+      text-align: center;
+      padding: 5px;
+      margin-top: 150px;
+      border-style: solid;
+      border-color:white;
       border-width: 5px;
 }
 .h1se{
       background-color: yellow ;
-    text-align: center;
+      text-align: center;
 }   
 a:link {
   text-decoration: none;
