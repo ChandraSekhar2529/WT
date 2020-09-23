@@ -1,16 +1,21 @@
 .h1s{
     background-color: #87ceeb ;
+    text-align: center;
 }
 .h3s{
      background-color: red;
+    text-align: center;
 }
 .as{
       background-color:  green; 
+    text-align: center;
 }
 .h1se{
       background-color: yellow ;
+    text-align: center;
 }   
 a:link {
   text-decoration: none;
+   
 }
 
